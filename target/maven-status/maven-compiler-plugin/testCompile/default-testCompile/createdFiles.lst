@@ -1,0 +1,14 @@
+com\moneycaptcha\lambda\rest\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\moneycaptcha\lambda\rest\TestUtils$DateTimeDeserializer.class
+com\moneycaptcha\lambda\rest\TestContext.class
+com\moneycaptcha\lambda\rest\LambdaRestCallHandlerTest.class
+com\moneycaptcha\lambda\rest\TestUtils$1.class
+com\moneycaptcha\lambda\rest\TestUtils.class
+com\moneycaptcha\lambda\rest\TestContext$TestLogger.class
+com\moneycaptcha\lambda\rest\TestUtils$DateTimeSerializer.class
+com\moneycaptcha\lambda\rest\TestUtils$TestJacksonMapperModule.class
+com\moneycaptcha\lambda\rest\TestUtils$DynamodbEventMixin.class
+com\moneycaptcha\lambda\rest\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\moneycaptcha\lambda\rest\TestContext$1.class
+com\moneycaptcha\lambda\rest\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\moneycaptcha\lambda\rest\TestUtils$DynamodbEventMixin$RecordMixin.class

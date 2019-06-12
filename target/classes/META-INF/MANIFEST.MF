@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: monecaptcha-lambda-services
+Implementation-Version: 1.0.0
+Built-By: HP
+Implementation-Vendor-Id: com.moneycaptcha.lambda
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/monecaptcha-lambda-services
+Created-By: Maven Integration for Eclipse
+
